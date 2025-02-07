@@ -2,7 +2,7 @@
 
 This is my rythm game.
 
-You need to install more libraries for the jupiter notebook than what you saw in the requirement.
+You need to install more libraries for the jupiter notebook than what you saw in the requirement. It's only about data analysis so not usefull for making the game work.
 
 Gameplay : 
 https://youtube.com/shorts/CmSZGBqJbXY?si=tckDaaMYagCJ4fd8
